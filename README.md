@@ -24,7 +24,9 @@ https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/cont
 
 Ленивый миниhttps://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229
 
-## Solana
+## Solana 
 
+* https://www.metaplex.com/learn-developers
+* 
 * Смотрите "Setup a Metaplex Marketplace and publish to the web via Github Pages" на YouTube
 https://youtu.be/CWqW1Akcnqo

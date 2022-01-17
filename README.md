@@ -1,4 +1,5 @@
 # nft-mint-aproach
+№№ EVM-compatible blockchains
 * https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#IERC721Metadata
 * Magic Minting (aka Lazy Minting), split royalties and payments, multi-chain support for Polygon, Ethereum, and xDai, ERC-2309 and an implementation allowing for the standardized creation of an arbitrarily large amount of NFTs in one transaction for a cost comparable to creating one NFT in standard smart contracts.
 https://app.cargo.build/dashboard/collection/606d60a773654b3651413ec3/for-sale
@@ -22,3 +23,8 @@ https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/cont
 
 
 Ленивый миниhttps://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229
+
+## Solana
+
+* Смотрите "Setup a Metaplex Marketplace and publish to the web via Github Pages" на YouTube
+https://youtu.be/CWqW1Akcnqo

@@ -27,6 +27,9 @@ https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/cont
 ## Solana 
 
 * https://www.metaplex.com/learn-developers
-* 
+
 * Смотрите "Setup a Metaplex Marketplace and publish to the web via Github Pages" на YouTube
 https://youtu.be/CWqW1Akcnqo
+* как сделать оплату костюмными токенми https://github.com/metaplex-foundation/metaplex/pull/788
+* поддержка IPFS https://github.com/metaplex-foundation/metaplex/issues/243
+

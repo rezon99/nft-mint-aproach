@@ -5,7 +5,7 @@
 https://app.cargo.build/dashboard/collection/606d60a773654b3651413ec3/for-sale
 
 
-
+* Tutorial: Writing an NFT Collectible Smart Contract https://medium.com/scrappy-squirrels/tutorial-writing-an-nft-collectible-smart-contract-9c7e235e96da
 * https://betterprogramming.pub/create-your-own-nft-collection-with-python-82af40abf99f
 
 * Смотрите "Interact with Smart Contracts through your website (JS and REACT tutorial)" на YouTube

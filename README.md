@@ -33,6 +33,9 @@ https://youtu.be/CWqW1Akcnqo
 * как сделать оплату костюмными токенми https://github.com/metaplex-foundation/metaplex/pull/788
 * поддержка IPFS https://github.com/metaplex-foundation/metaplex/issues/243
 
+## Cardano
+* https://www.nft-maker.io/pro
+
 ## storage
 * https://nft.storage/#docs
 

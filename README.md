@@ -14,7 +14,7 @@ https://youtu.be/7TKqLJd_aYI
 * Смотрите "NFTPort: How to bring your NFT application to market in hours" на YouTube
 https://youtu.be/g8Ku_N6PFFw
 
-* Здесь есть воркшоп по класичекому подходу к созданию нф тплюс подхода обратная связь https://app.buildspace.so/
+* Здесь есть воркшоп по класичекому подходу к созданию нфт под  EVM  плюс обратная связь https://app.buildspace.so/
 
 TokenId in lazy minting - Support / Contracts - OpenZeppelin Community
 https://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229 

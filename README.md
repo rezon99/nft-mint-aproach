@@ -22,7 +22,8 @@ https://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229 
 https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/contracts/LazyNFT.solhttps://moralis.io/how-to-mint-nfts-without-gas-fees/
 
 
-Ленивый миниhttps://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229
+* Ленивый минт https://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229
+* воркфлоу по деплою ресмикс трафл хед https://doc.aurora.dev/develop/start/metamask
 
 ## Solana 
 

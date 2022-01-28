@@ -28,7 +28,7 @@ https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/cont
 
 * Ленивый минт https://forum.openzeppelin.com/t/tokenid-in-lazy-minting/18229
 * воркфлоу по деплою ресмикс трафл хед https://doc.aurora.dev/develop/start/metamask
-
+* Create a whitelist for your NFT project https://dev.to/lilcoderman/create-a-whitelist-for-your-nft-project-1g55
 * Using Merkle Trees for NFT Whitelists | by Alan | Medium  https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9
 * Using AWS For Your NFT Whitelist API | by Alan https://medium.com/@ItsCuzzo/using-aws-for-your-nft-whitelist-api-9ae82b5c5fbc
 

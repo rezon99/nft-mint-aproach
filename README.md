@@ -33,7 +33,8 @@ https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/cont
 * Using AWS For Your NFT Whitelist API | by Alan https://medium.com/@ItsCuzzo/using-aws-for-your-nft-whitelist-api-9ae82b5c5fbc
 
 * Смотрите "Bulk NFT upload to OpenSea - 10,000 automated" на YouTube https://youtu.be/-P20u-D--vA
-
+* 
+https://medium.com/web-design-web-developer-magazine/how-to-post-giant-10-000-sets-of-nfts-on-opensea-2a8efd4c836e
 
 
 ## Solana 

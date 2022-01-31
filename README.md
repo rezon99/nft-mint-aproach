@@ -36,6 +36,8 @@ https://github.com/ipfs-shipyard/nft-school-examples/blob/main/lazy-minting/cont
 * 
 https://medium.com/web-design-web-developer-magazine/how-to-post-giant-10-000-sets-of-nfts-on-opensea-2a8efd4c836e
 
+### Класичекий подход
+* https://habr.com/ru/post/646811/
 
 ## Solana 
 

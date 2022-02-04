@@ -20,6 +20,8 @@ https://youtu.be/g8Ku_N6PFFw
 
 * Здесь есть воркшоп по класичекому подходу к созданию нфт под  EVM  плюс обратная связь https://app.buildspace.so/
 
+* Еще АПИ сервис Смотрите "NFTPort: How to Bring your NFT Application to Market in Hours" на YouTube https://youtu.be/gbfei58_HsE
+* https://www.nftport.xyz/pricing
 
 
 ### Lazy mintЛенивый минт

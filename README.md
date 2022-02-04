@@ -57,6 +57,11 @@ https://youtu.be/g8Ku_N6PFFw
 * Preparing for mainnet - OpenZeppelin Docs https://docs.openzeppelin.com/learn/preparing-for-mainnet
 * Оптимизация по газу https://www.azuki.com/erc721a
 
+
+### Вайтлист 
+
+*Вайтлист смарт-контракт Смотрите "Create a NFT Presale smart contract" на YouTube
+
 ## Solana 
 
 * https://www.metaplex.com/learn-developers

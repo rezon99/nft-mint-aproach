@@ -66,6 +66,8 @@ https://youtu.be/g8Ku_N6PFFw
 
 * сервис Create an NFT drop with TypeScript | thirdweb
  https://thirdweb.com/portal/guides/create-a-drop-with-typescript-sdk
+ 
+ * Рандомный дроп пака https://thirdweb.com/portal/learn/modules/pack
 
 ## Solana 
 

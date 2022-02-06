@@ -60,7 +60,12 @@ https://youtu.be/g8Ku_N6PFFw
 
 ### Вайтлист 
 
-*Вайтлист смарт-контракт Смотрите "Create a NFT Presale smart contract" на YouTube
+* Вайтлист смарт-контракт Смотрите "Create a NFT Presale smart contract" на YouTube https://www.youtube.com/watch?v=MLtUIpj0zJo
+ https://www.youtube.com/watch?v=9sR1bd-I6D8
+
+
+* сервис Create an NFT drop with TypeScript | thirdweb
+ https://thirdweb.com/portal/guides/create-a-drop-with-typescript-sdk
 
 ## Solana 
 

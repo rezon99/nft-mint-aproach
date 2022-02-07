@@ -69,6 +69,10 @@ https://youtu.be/g8Ku_N6PFFw
  
  * Рандомный дроп пака https://thirdweb.com/portal/learn/modules/pack
 
+### Маркетплейсы
+
+https://looksrare.org/collections
+
 ## Solana 
 
 * https://www.metaplex.com/learn-developers

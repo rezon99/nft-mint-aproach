@@ -24,6 +24,8 @@ https://youtu.be/g8Ku_N6PFFw
 * Смотрите "NFTPort: How to Bring your NFT Application to Market in Hours" на YouTube https://youtu.be/gbfei58_HsE https://www.nftport.xyz/pricing
 * https://niftykit.com/faq
 * Moralis NFT
+* https://app.niftykit.com/buy/subscription  
+* https://niftykit.com/dropkit-nft-metadata/
 
 
 ### Lazy mintЛенивый минт

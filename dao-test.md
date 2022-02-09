@@ -8,7 +8,7 @@
 
 
 
-*  
+*  EOAs vs. Contract Accounts - Developer Docs https://docs.gnosis-safe.io/introduction/the-programmable-account/eoas-vs.-contract-accounts
 *   
 *    
 * https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM/preview?pru=AAABfphNa-k*tbhpCkfM7KSCBStGRRIbEw&slide=id.ged448f070e_4_126   

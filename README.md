@@ -1,5 +1,7 @@
 # nft-mint-aproach
 ## EVM-compatible blockchains
+
+PSA: OpenSea let’s you mint full 3D models and scenes as NFTs. 3D artist: you don’t need to make a video of your creation, just upload it as a .GLB:https://www.reddit.com/r/NFT/comments/mi87cl/psa_opensea_lets_you_mint_full_3d_models_and/
 https://stackoverflow.com/questions/70124838/opensea-not-generating-preview-for-3d-model-glb
 
 * https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#IERC721Metadata

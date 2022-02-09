@@ -1,4 +1,5 @@
 * https://faucets.chain.link/rinkeby
+* Автомаитчекая насройка метамак по нужную сетку https://umbria.network/connect/binance-smart-chain-mainnet
 * All About Solidity — Article Series https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746
 Table of Content
 all about Addresses

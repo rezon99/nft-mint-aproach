@@ -74,7 +74,7 @@ https://youtu.be/g8Ku_N6PFFw
 ### Маркетплейсы
 
 https://looksrare.org/collections
-
+https://medium.com/pinata/how-to-share-3d-models-with-ipfs-bb66df853962
 ## Solana 
 
 * https://www.metaplex.com/learn-developers

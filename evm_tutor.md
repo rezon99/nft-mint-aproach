@@ -2,7 +2,8 @@
 * https://cowswap.exchange/#/swap обменник rinkeby
 * https://testnets.opensea.io/account rinkeby
 * https://gnosis-safe.io/app/welcome
-* Автомаитчекая насройка метамак по нужную сетку https://umbria.network/connect/binance-smart-chain-mainnet
+* Автомаитчекая насройка метамак под нужную сетку https://umbria.network/connect/binance-smart-chain-mainnet
+* Автомаитчекая насройка метамак под нужную сетку https://tokenmagic.app/#/
 * All About Solidity — Article Series https://jeancvllr.medium.com/all-about-solidity-article-series-f57be7bf6746
 Table of Content
 all about Addresses

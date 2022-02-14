@@ -31,6 +31,7 @@ https://youtu.be/g8Ku_N6PFFw
 * Moralis NFT
 * https://app.niftykit.com/buy/subscription  
 * https://niftykit.com/dropkit-nft-metadata/
+* https://thirdweb.com/
 
 
 ### Lazy mintЛенивый минт

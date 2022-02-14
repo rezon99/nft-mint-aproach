@@ -1,5 +1,6 @@
 # nft-mint-aproach
 ## EVM-compatible blockchains
+* Класичекеий вариант https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft
 * Сапортят как лейзи минт так и класический за 5% комисии https://niftykit.notion.site/NiftyKit-Product-Updates-2-14-22-b6cee2d16de7468ab0361408e33dedba
 PSA: OpenSea let’s you mint full 3D models and scenes as NFTs. 3D artist: you don’t need to make a video of your creation, just upload it as a .GLB:https://www.reddit.com/r/NFT/comments/mi87cl/psa_opensea_lets_you_mint_full_3d_models_and/
 https://stackoverflow.com/questions/70124838/opensea-not-generating-preview-for-3d-model-glb

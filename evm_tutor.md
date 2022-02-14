@@ -1,3 +1,8 @@
+№№Блюпринт
+* https://github.com/scaffold-eth
+
+
+
 * https://faucets.chain.link/rinkeby
 * https://cowswap.exchange/#/swap обменник rinkeby
 * https://testnets.opensea.io/account rinkeby

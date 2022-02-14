@@ -99,3 +99,6 @@ https://youtu.be/CWqW1Akcnqo
 ## storage
 * https://nft.storage/#docs
 
+
+№№Скриты и сервисы для генерации коллектебли
+* https://ambition.so/ambition.so/nft-generator

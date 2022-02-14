@@ -83,6 +83,7 @@ https://youtu.be/g8Ku_N6PFFw
 https://looksrare.org/collections
 https://medium.com/pinata/how-to-share-3d-models-with-ipfs-bb66df853962
 ## Solana 
+https://editorial.mintable.app/2022/02/08/which-blockchain-is-best-for-nfts-ethereum-vs-solana/?utm_source=rss&utm_medium=rss&utm_campaign=which-blockchain-is-best-for-nfts-ethereum-vs-solana&utm_source=newsletter&utm_medium=email&utm_campaign=Mintable%27s+Weekly+Digest+Test&cmid=a591f093-6270-4257-a93b-fcb33dc437fd
 
 * https://www.metaplex.com/learn-developers
 

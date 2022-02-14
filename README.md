@@ -79,7 +79,7 @@ https://youtu.be/g8Ku_N6PFFw
  * Рандомный дроп пака https://thirdweb.com/portal/learn/modules/pack
 
 ### Маркетплейсы
-
+имютабл єфир https://mintable.app/profile/my-orders
 https://looksrare.org/collections
 https://medium.com/pinata/how-to-share-3d-models-with-ipfs-bb66df853962
 ## Solana 

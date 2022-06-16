@@ -1,3 +1,5 @@
+How I became a Web3 dev in just 7 days and got my first 8000$ Web3 contract https://medium.com/cryptostars/how-i-became-a-web3-dev-in-just-7-days-and-got-my-first-8000-web3-contract-8f554bcb5352
+
 # nft-mint-aproach
 ## EVM-compatible blockchains
 * Класичекеий вариант https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft
